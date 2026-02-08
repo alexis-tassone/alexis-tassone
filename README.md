@@ -1,40 +1,45 @@
-# 🏛️ Alexis Tassone
-**Data Operations Analyst | Mathematics & Statistics Specialist**
-
-> Detail-oriented Data Analyst with a foundation in probability and statistical modeling from the University of Toronto. Passionate about transforming messy data into reliable, actionable insights through rigorous documentation and structured problem-solving.
+<div align="center">
+  <img src="alexis_banner.png" alt="Alexis Tassone Banner" width="100%">
+  
+  # 🏛️ Alexis Tassone
+  **Technical Analyst | Mathematics & Statistics Specialist**
+  
+  *Bridging the gap between analytical rigour and humanitarian impact.*
+</div>
 
 ---
 
-### 🖋️ Current Focus
-* **Junior Data Operations Analyst** at **Citylitics**, supporting data quality and analytics workflows for infrastructure and public-impact datasets.
-* **Deepening Expertise:** Currently completing the **DeepLearning.AI Machine Learning Specialization** on Coursera.
-* **Core Philosophy:** $$\text{Data Quality} \propto \frac{1}{\text{Entropy}}$$
+### 🖋️ Profile
+I am a technical analyst driven by the intersection of **NLP, Computer Vision, and Humanitarian Impact.** With a background in Mathematics from the University of Toronto, I focus on turning complex, messy data into structured insights that solve human-centric problems. I believe that data is most powerful when it is accurate, well-structured, and used to better people's lives.
+
+* **Current Role:** Junior Data Operations Analyst at **Citylitics**, supporting data quality for infrastructure and public-impact datasets.
+* **Core Philosophy:** High accuracy and documentation rigour are the bedrock of reliable AI.
+* **Technical Mission:** Leveraging analytical rigour to build models that solve human-centric problems.
 
 ---
 
 ### 🛠️ Technical Arsenal
 | Category | Stack |
 | :--- | :--- |
-| **Languages** | Python (pandas, scikit-learn, PyTorch), R, SQL, LaTeX |
-| **Data Formats** | JSON, XML, HTML, Markdown, CSV/TSV |
-| **Capabilities** | Data Governance, NLP Preprocessing, Statistical Modelling, QA Workflows |
-| **Tools** | Git, Excel, Power BI, Power Query |
+| **Mathematics** | Probability, Statistics, Graph Theory, Stochastic Processes |
+| **Languages** | Python (PyTorch, pandas, scikit-learn), SQL, R, LaTeX |
+| **Data Ops** | Data Governance, NLP Preprocessing, Validation Pipelines |
+| **Tools** | Power BI, Power Query, Excel, Git |
 
 ---
 
-### 📂 Selected Case Studies
-* **[Mental Health Tweets Analysis](https://github.com/alexistassone)** * Built PyTorch models to classify tweet patterns, performing EDA and hyperparameter tuning.
-* **[Twitch Gaming SQL Analytics](https://github.com/alexistassone)**
-    * Queried 800,000+ rows of streaming data to analyze viewer behavior and engagement trends using window functions and CTEs.
-* **[Student Performance Prediction](https://github.com/alexistassone)**
-    * Implemented k-NN and Item Response Theory (IRT) models to predict quiz performance with ~68% accuracy.
+### 📂 Selected Academic Research & Analysis
+* **Mental Health Tweets Analysis** — Developed PyTorch models to classify tweet patterns, applying NLP to identify mental-health-related trends.
+* **Student Performance Prediction** — Implemented k-NN and Item Response Theory (IRT) to predict student performance with ~68% accuracy.
+* **Twitch Gaming SQL Analytics** — Queried 800,000+ rows of streaming data to analyze viewer behavior and engagement trends.
 
 ---
 
-### 🧪 Currently Experimenting
-* **Spatial Data Structures:** Exploring how infrastructure data can be visualized more effectively in 3D environments.
-* **Automated QA:** Refining LLM-based data validation pipelines to reduce manual auditing time.
-* **Probabilistic Graphs:** Revisiting graph theory applications for complex relational datasets.
+### 🧪 Currently Learning & Exploring
+* **DeepLearning.AI:** Completing the Machine Learning Specialization to bridge the gap between data ops and model architecture.
+* **Humanitarian Tech:** Exploring how NLP can better categorize aid-related information in crisis zones.
+* **Computer Vision:** Investigating the use of CV for identifying infrastructure needs in public-impact datasets.
+* **Formula for Progress:** $$\text{Insight} = \int (\text{Data} + \text{Context}) \, d\text{Humanity}$$
 
 ---
 
@@ -46,5 +51,4 @@
 
 ### ☕ Connect With Me
 * [LinkedIn](https://linkedin.com/in/alexis-tassone)
-* [Portfolio/GitHub](https://github.com/alexistassone)
 * **Email:** alexisjtassone@gmail.com
