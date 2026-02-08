@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="alexis_banner.png" alt="Alexis Tassone Banner" width="100%">
+  <img src="github_banner.png" alt="Alexis Tassone Banner" width="100%">
   
   # 🏛️ Alexis Tassone
   **Technical Analyst | Mathematics & Statistics Specialist**
