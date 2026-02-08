@@ -1,13 +1,5 @@
 <div align="center">
   <img src="github_banner.png" alt="Alexis Tassone Banner" width="100%">
-  
-  # 🏛️ Alexis Tassone
-  **Technical Analyst | Mathematics & Statistics Specialist**
-  
-  *Bridging the gap between analytical rigour and humanitarian impact.*
-</div>
-
----
 
 ### 🖋️ Profile
 I am a technical analyst driven by the intersection of **NLP, Computer Vision, and Humanitarian Impact.** With a background in Mathematics from the University of Toronto, I focus on turning complex, messy data into structured insights that solve human-centric problems. I believe that data is most powerful when it is accurate, well-structured, and used to better people's lives.
