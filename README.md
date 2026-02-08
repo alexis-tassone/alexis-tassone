@@ -1,5 +1,6 @@
 <div align="center">
   <img src="github_banner.png" alt="Alexis Tassone Banner" width="100%">
+</div>
 
 ### 🖋️ Profile
 I am a technical analyst driven by the intersection of **NLP, Computer Vision, and Humanitarian Impact.** With a background in Mathematics from the University of Toronto, I focus on turning complex, messy data into structured insights that solve human-centric problems. I believe that data is most powerful when it is accurate, well-structured, and used to better people's lives.
@@ -15,8 +16,15 @@ I am a technical analyst driven by the intersection of **NLP, Computer Vision, a
 | :--- | :--- |
 | **Mathematics** | Probability, Statistics, Graph Theory, Stochastic Processes |
 | **Languages** | Python (PyTorch, pandas, scikit-learn), SQL, R, LaTeX |
-| **Data Ops** | Data Governance, NLP Preprocessing, Validation Pipelines |
+| **Data Ops** | Data Governance, Validation Pipelines, Analytics |
 | **Tools** | Power BI, Power Query, Excel, Git |
+
+---
+
+### 📐 Mathematical Foundation
+* **Stochastic Processes**: Analyzing systems that evolve over time with inherent randomness.
+* **Linear Algebra & Multivariable Calculus**: The geometric and numerical backbone of Machine Learning optimization.
+* **Statistical Inference**: Applying rigorous probability models to extract certainty from complex datasets.
 
 ---
 
@@ -28,19 +36,17 @@ I am a technical analyst driven by the intersection of **NLP, Computer Vision, a
 ---
 
 ### 🧪 Currently Learning & Exploring
-* **DeepLearning.AI:** Completing the Machine Learning Specialization to bridge the gap between data ops and model architecture.
-* **Humanitarian Tech:** Exploring how NLP can better categorize aid-related information in crisis zones.
-* **Computer Vision:** Investigating the use of CV for identifying infrastructure needs in public-impact datasets.
-* **Formula for Progress:** $$\text{Insight} = \int (\text{Data} + \text{Context}) \, d\text{Humanity}$$
+* **DeepLearning.AI**: Completing the Machine Learning Specialization to bridge the gap between data operations and model architecture.
+* **Computer Vision in Healthcare**: Exploring how CV models can be applied to medical imaging and healthcare logistics to improve patient outcomes.
 
 ---
 
 ### 📊 Technical Proficiencies
-![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=F9F6EE)
-![SQL](https://img.shields.io/badge/SQL-7E6B5A?style=for-the-badge&logo=postgresql&logoColor=F9F6EE)
-![PyTorch](https://img.shields.io/badge/PyTorch-1A1A1A?style=for-the-badge&logo=pytorch&logoColor=F9F6EE)
-![Pandas](https://img.shields.io/badge/Pandas-7E6B5A?style=for-the-badge&logo=pandas&logoColor=F9F6EE)
-![LaTeX](https://img.shields.io/badge/LaTeX-1A1A1A?style=for-the-badge&logo=latex&logoColor=F9F6EE)
+![Python](https://img.shields.io/badge/Python-231F20?style=flat-square&logo=python&logoColor=F6F4F1)
+![SQL](https://img.shields.io/badge/SQL-CCB9B2?style=flat-square&logo=postgresql&logoColor=231F20)
+![PyTorch](https://img.shields.io/badge/PyTorch-231F20?style=flat-square&logo=pytorch&logoColor=F6F4F1)
+![Pandas](https://img.shields.io/badge/Pandas-CCB9B2?style=flat-square&logo=pandas&logoColor=231F20)
+![LaTeX](https://img.shields.io/badge/LaTeX-231F20?style=flat-square&logo=latex&logoColor=F6F4F1)
 
 ---
 
