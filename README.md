@@ -31,7 +31,7 @@ I am a technical analyst driven by the intersection of **NLP, Computer Vision, a
 ### 📂 Selected Academic Research & Analysis
 * **Mental Health Tweets Analysis** — Developed PyTorch models to classify tweet patterns, applying NLP to identify mental-health-related trends.
 * **Student Performance Prediction** — Implemented k-NN and Item Response Theory (IRT) to predict student performance with ~68% accuracy.
-* **Twitch Gaming SQL Analytics** — Queried 800,000+ rows of streaming data to analyze viewer behavior and engagement trends.
+* **Twitch Gaming SQL Analytics** — Queried 800,000+ rows of streaming data to analyze viewer behaviour and engagement trends.
 
 ---
 
@@ -43,9 +43,12 @@ I am a technical analyst driven by the intersection of **NLP, Computer Vision, a
 
 ---
 
-### 📊 Vital Signs
-![Alexis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexis-tassone&show_icons=true&bg_color=F9F6EE&title_color=1A1A1A&text_color=7E6B5A&icon_color=7E6B5A&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-tassone&layout=compact&bg_color=F9F6EE&title_color=1A1A1A&text_color=7E6B5A&hide_border=true)
+### 📊 Technical Proficiencies
+![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=F9F6EE)
+![SQL](https://img.shields.io/badge/SQL-7E6B5A?style=for-the-badge&logo=postgresql&logoColor=F9F6EE)
+![PyTorch](https://img.shields.io/badge/PyTorch-1A1A1A?style=for-the-badge&logo=pytorch&logoColor=F9F6EE)
+![Pandas](https://img.shields.io/badge/Pandas-7E6B5A?style=for-the-badge&logo=pandas&logoColor=F9F6EE)
+![LaTeX](https://img.shields.io/badge/LaTeX-1A1A1A?style=for-the-badge&logo=latex&logoColor=F9F6EE)
 
 ---
 
